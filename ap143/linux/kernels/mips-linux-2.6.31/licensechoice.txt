@@ -1,0 +1,4 @@
+Qualcomm Atheros, Inc. chooses to take this license under version 2 of the 
+GNU Public License.
+All distributions are made under this license.
+
